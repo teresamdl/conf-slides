@@ -9,8 +9,8 @@ Real-world challenges and solutions for managing PostgreSQL at extreme scale.
 
 **Presented at:**
 
-- PGConf.DE 2025 (Munich, Germany)
-- PGConf.BE 2025 (Antwerp, Belgium)
+- PGConf.DE 2025 (Berlin, Germany)
+- PGConf.BE 2025 (Leuven, Belgium)
 - PGDay Austria 2025 (Vienna, Austria)
 - PGConf.EU 2025 (Riga, Latvia)
 
