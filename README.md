@@ -13,6 +13,7 @@ Real-world challenges and solutions for managing PostgreSQL at extreme scale.
 - PGConf.BE 2025 (Leuven, Belgium)
 - PGDay Austria 2025 (Vienna, Austria)
 - PGConf.EU 2025 (Riga, Latvia)
+- AMS DB Meet-up 2025 (Amsterdam, Netherlands)
 
 More to be added later.
 
