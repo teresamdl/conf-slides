@@ -2,6 +2,8 @@
 
 Resources for *Autovacuum Is Running. Is It Actually Working?* by Teresa Lopes (PGConf.EU 2026).
 
+<img width="612" height="408" alt="image" src="https://github.com/user-attachments/assets/501191c0-4983-437b-9a8b-95279d179881" />
+
 ## Background
 
 - **Who was El Cid?** [Wikipedia](https://en.wikipedia.org/wiki/El_Cid)
