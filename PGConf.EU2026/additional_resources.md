@@ -6,7 +6,7 @@ Resources for *Autovacuum Is Running. Is It Actually Working?* by Teresa Lopes (
 
 ## Background
 
-- **Who was El Cid?** [Wikipedia](https://en.wikipedia.org/wiki/El_Cid)
+- **Who was El Çid?** [Wikipedia](https://en.wikipedia.org/wiki/El_Cid)
 - **Paella Valenciana recipe** [Visit Valencia](https://www.visitvalencia.com/en/what-to-do-valencia/gastronomy/what-to-eat/paella-valenciana-recipe)
 
 ## Is autovacuum keeping up?
@@ -14,6 +14,7 @@ Resources for *Autovacuum Is Running. Is It Actually Working?* by Teresa Lopes (
 - [Autovacuum Tuning Basics](https://www.enterprisedb.com/blog/autovacuum-tuning-basics) by Tomas Vondra
 - [How Autovacuum Goes Wrong: And Can We Please Make It Stop Doing That?](https://www.youtube.com/watch?v=RfTD-Twpvac) by Robert Haas (PGConf.dev 2024)
 - [Tuning PostgreSQL autovacuum](https://www.cybertec-postgresql.com/en/tuning-autovacuum-postgresql/) by Laurenz Albe
+- [adaptive_autovacuum](https://github.com/secp256k1-sha256/adaptive_autovacuum) by Mayur
 
 ## When autovacuum cannot run
 
