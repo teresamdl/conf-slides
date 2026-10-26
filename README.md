@@ -4,18 +4,27 @@ This repository contains slides from my PostgreSQL conference talks and presenta
 
 ## 📊 Available Presentations
 
+### Autovacuum Is Running. Is It Actually Working?
+The problem is not vacuum. The problem is misconfiguration.
+
+**Presented at:**
+- PGConf.EU 2026 (Valencia, Spain)
+
 ### Operational Hazards of Managing PostgreSQL DBs Over 100TB
 Real-world challenges and solutions for managing PostgreSQL at extreme scale.
 
 **Presented at:**
-
 - PGConf.DE 2025 (Berlin, Germany)
 - PGConf.BE 2025 (Leuven, Belgium)
 - PGDay Austria 2025 (Vienna, Austria)
 - PGConf.EU 2025 (Riga, Latvia)
 - AMS DB Meet-up 2025 (Amsterdam, Netherlands)
-
-More to be added later.
+- Madrid PostgreSQL User Group meetup (Madrid, Spain)
+- Prague PostgreSQL Meetup (Prague, Czech Republic)
+- P2D2 2026 (Prague, Czech Republic)
+- CERN PGDay 2026 (Geneva, Switzerland)
+- PGDay UK 2026 (London, UK)
+- GOATMIRE 2026 (Varberg, Sweden)
 
 ## 🔗 Related Links
 
