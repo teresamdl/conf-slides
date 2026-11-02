@@ -4,6 +4,8 @@ Resources for _Operational hazards of managing PostgreSQL DBs over 100TB_ by Ter
 
 <img width="512" height="302" alt="image" src="https://github.com/user-attachments/assets/24272b41-e960-4f73-b457-88baf62fe612" />
 
+There is a longer version of these talk recorder at CERN PGDay 2026 - [video](https://videos.cern.ch/record/3020776)
+
 ## Bring balance to the Database
 
 - [Муths and Truths about Synchronous Replication in PostgreSQL](https://www.postgresql.eu/events/pgconfde2025/sessions/session/6559/slides/663/Myths%20and%20Truths%20about%20Synchronous%20Replication%20in%20PostgreSQL.pdf) by Alexander Kukushkin
@@ -14,6 +16,7 @@ Resources for _Operational hazards of managing PostgreSQL DBs over 100TB_ by Ter
 
 - [VACUUM](https://www.postgresql.org/docs/current/sql-vacuum.html) PostgreSQL Documentation
 - [Autovacuum Is Running. Is It Actually Working?](https://www.postgresql.eu/events/pgconfeu2026/schedule/session/8120-autovacuum-is-running-is-it-actually-working/) by Teresa Lopes
+- [adaptive_autovacuum](https://github.com/secp256k1-sha256/adaptive_autovacuum) by Mayur
 
 ## Data, Data everywhere
 
